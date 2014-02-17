@@ -12,4 +12,6 @@ This project was my first attempt at using Sketch 2, a professional vector graph
 
 ![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_5_6_7.png "Makers Academy mobile app design mockup")
 
-[Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_detail_blue.png "Makers Academy mobile app design mockup") ![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_detail_black.png "Makers Academy mobile app design mockup")
+[Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_detail_blue.png "Makers Academy mobile app design mockup") 
+
+![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_detail_black.png "Makers Academy mobile app design mockup")
