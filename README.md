@@ -9,7 +9,7 @@ All icons, buttons and shapes created with Sketch 2.
 
 ![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_1_2.png "Makers Academy mobile app design mockup")
 
-![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_3_4.png "Makers Academy mobile app design mockup")
+![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_3_4_new.png "Makers Academy mobile app design mockup")
 
 ![Alt Makers Academy mobile app design mockup](https://raw2.github.com/GiacomoPatella/giacomopatella.github.io/master/ma_app_5_6_7.png "Makers Academy mobile app design mockup")
 
